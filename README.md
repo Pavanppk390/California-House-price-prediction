@@ -19,6 +19,8 @@ MAE: 0.5434
 
 MSE: 0.5378
 
+RMSE: 0.7333
+
 ## Technologies Used
 
 - Python
